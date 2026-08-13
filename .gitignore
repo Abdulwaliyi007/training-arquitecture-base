@@ -38,3 +38,5 @@ coverage
 *.tsbuildinfo
 .eslintcache
 .next/cache
+# SQLite data (workshop persistence)
+apps/backend/data/*.sqlite
