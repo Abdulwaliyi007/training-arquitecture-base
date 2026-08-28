@@ -126,4 +126,6 @@ Cover Task 1 **and** Task 2. Use the Nest test setup (e2e and/or unit) in `apps/
 
 ## Out of scope
 
-Stats endpoints/UI, broadcast worker, delivery logs, frontend — Tasks 3–4.
+Stats, broadcast, delivery logs / worker — optional Task 4 (workshop ends at Task 3).
+Frontend — Task 3.
+

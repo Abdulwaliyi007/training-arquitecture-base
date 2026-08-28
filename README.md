@@ -63,11 +63,21 @@ arquitecture-training/
 ├── apps/
 │   ├── frontend/   # Next.js
 │   └── backend/    # NestJS
+├── tasks/          # Workshop briefs (TASK1–TASK3 required; TASK4 optional)
 ├── package.json
 ├── pnpm-workspace.yaml
 └── README.md
 ```
 
+## Workshop path
+
+| Task | Focus | Required? |
+| --- | --- | --- |
+| [`tasks/TASK1.md`](tasks/TASK1.md) | Users, roles, groups, JWT | Yes |
+| [`tasks/TASK2.md`](tasks/TASK2.md) | Notifications API + tests | Yes |
+| [`tasks/TASK3.md`](tasks/TASK3.md) | Frontend login + notifications UI | Yes — **workshop ends here** |
+| [`tasks/TASK4.md`](tasks/TASK4.md) | Stats, broadcast, delivery logs | Optional / deferred |
+
 ## Notes
 
-This repo is intentionally minimal — a starting point for training exercises.
+This repo is intentionally minimal — a starting point for training exercises. Required work stops after Task 3.
